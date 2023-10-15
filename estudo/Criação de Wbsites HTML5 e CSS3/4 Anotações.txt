@@ -1,0 +1,8 @@
+Imagens 
+
+<img>
+<img src="img/avatar.jpg"> --> é obrigadorio que guardo o caminho da imagem 
+<img alt="foto de Lucas Vilaboim"> --> ira conter a descrição da foto quando ela ainda não é carregada, não sendo obrigadorio o seu uso
+
+
+acessar o site tinypnf.com para diminuir os tamanhos das imagens, tirando alguns dados desenessarios.

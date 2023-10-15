@@ -1,0 +1,19 @@
+Elemento HTML
+
+elemento html
+começa com uma tag de abertura, qual o tipo de elemento e a teg pode ter um atribudo e depois conteudo e depois o fechamento
+
+Estrutura Basica
+
+
+<DOCTYPE HTML>  ->>>não é um elemento html apenas diz o que vc esta escrevendo
+<html>->> tag do html
+  <head>-->vai ter as meta informaçoes, são informaçoes que o navegador necessita
+    <meta>-->> meta é uma tag muito utilzado, exemplo charset  que é como o navegador vai fazer o encode dos caracters
+     <title></title>
+  </head>--->>fechando o head
+  <body>->>onde vai estar o conteudo da pagina
+  </body>--->fecha o body
+</html> ----> fecha o html
+
+   
