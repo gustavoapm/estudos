@@ -1,0 +1,11 @@
+Semâtica
+
+<sextion> ---> representa uma sesão generica como um lista de artigos
+<header>  ---> pode ser o cabeçalho da pagina ou parte da pagina
+<article> ---> representa um conteudo relevante como o artigo de um blog
+<aside>   ---> representa um conteudo relacionado ao  conteudo principal da baixo como a biografia 
+<footer>  ---> rodape da pagina ou de parte da pagina
+<h1>-<h6> ---> representa a importancia do titulo da pagina, uma unica regra é que so pode ter um h1 por pagina.
+
+
+   
